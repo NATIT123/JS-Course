@@ -1,1 +1,5 @@
-# JS-Course
+# JavaScript Course
+
+## Knowldege
+
+### Fundamentals
